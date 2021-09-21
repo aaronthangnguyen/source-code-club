@@ -2,9 +2,11 @@
 
 <br>
 
-Date: TBD  
-Location: TBD  
-Category: beginner, web development  
+**Instructor:** Aaron Nguyen  
+**Duration:** 60 minutes  
+**Date:** TBD  
+**Location:** TBD  
+**Category:** beginner, web development  
 
 <br>
 
