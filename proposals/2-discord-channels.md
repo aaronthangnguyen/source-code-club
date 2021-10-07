@@ -31,10 +31,10 @@ Category B:
 
 - general
 - programming-help
-- linkedin
-- internships
-- resume
 - personal-projects
+- linkedin
+- resume
+- opportunities
 
 \_\_PROJECTS\_\_():
 
