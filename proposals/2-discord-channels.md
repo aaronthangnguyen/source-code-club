@@ -51,3 +51,8 @@ Category B:
 - memes
 - gaming
 - hobbies
+
+\_\_OPERATIONS\_\_(OFFICER, STAFF):
+
+- officer-meeting
+- staff-meeting
