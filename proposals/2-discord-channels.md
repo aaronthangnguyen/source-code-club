@@ -41,7 +41,7 @@ Category B:
 - club-website
 - check-in-app
 
-\_\_LIVE\_\_():
+\_\_AUDIO\_\_():
 
 - official-club-meeting
 - random
