@@ -52,7 +52,7 @@ Category B:
 - gaming
 - hobbies
 
-\_\_OPERATIONS\_\_(OFFICER, STAFF):
+\_\_OPERATIONS\_\_(Officer, Staff):
 
 - officer-meeting
 - staff-meeting
